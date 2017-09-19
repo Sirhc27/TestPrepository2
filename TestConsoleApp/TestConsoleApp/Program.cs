@@ -11,6 +11,7 @@ namespace TestConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("This is from the 'First Branch' branch");
+            Console.WriteLine("This was added from the second branch");
         }
     }
 }
